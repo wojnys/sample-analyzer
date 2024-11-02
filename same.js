@@ -1,0 +1,1 @@
+consple.log("dominik  ");
